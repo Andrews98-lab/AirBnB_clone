@@ -23,7 +23,7 @@ Environment:
 This project is interpreted and tested on Ubuntu 14.04 LTS using Python 3 (version 3.4.3).
 
 Installation:
-1. Clone this repository: `git clone "https://github.com/Ayanwales/AirBnB_clone.git"`
+1. Clone this repository: git clone "https://github.com/Andrews98-lab/AirBnB_clone.git"`
 2. Access the AirBnb directory: `cd AirBnB_clone`
 3. Run the console interactively: `./console` and enter commands
 4. Run the console non-interactively: `echo "" | ./console.py`
